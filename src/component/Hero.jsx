@@ -16,14 +16,14 @@ function Hero() {
           target="_blank"
           href="https://github.com/GHGFaber"
         >
-          <img className="socials" id="github" src="git.svg" alt="" />
+          <img className="socials" id="github" src="/git.svg" alt="" />
         </a>
         <a
           className="socials"
           target="_blank"
           href="https://www.linkedin.com/in/mfuentesfbr/"
         >
-          <img className="socials" id="linkedin" src="linkedin.svg" alt="" />
+          <img className="socials" id="linkedin" src="/linkedin.svg" alt="" />
         </a>
       </div>
     </>
