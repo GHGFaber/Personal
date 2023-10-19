@@ -4,7 +4,7 @@ function Projects() {
       <div id="projectStart" className="projectsContainer">
         <div className="contentProject">
           <h1>NoCaps</h1>
-          <img className="contentGIF" src="/nocaps.gif" alt="" />
+          <img className="contentGIF" loading="lazy" src="/nocaps.gif" alt="" />
           <p>
             A web based typing sim that shows WPM (words per minute) and allows
             for users to sign in and create profile with the front end handled
@@ -25,7 +25,7 @@ function Projects() {
               Endless JDM
             </a>
           </h1>
-          <img className="contentGIF" src="/jdmgen.gif" alt="" />
+          <img className="contentGIF" loading="lazy" src="/jdmgen.gif" alt="" />
           <p>
             Static page that shows some JDM cars and music that someone might
             listen to on a drive in the form of Spotify embeds. Created using
@@ -43,7 +43,12 @@ function Projects() {
               TokyoThrottle
             </a>
           </h1>
-          <img className="contentGIF" src="/tthrottle.gif" alt="" />
+          <img
+            className="contentGIF"
+            loading="lazy"
+            src="/tthrottle.gif"
+            alt=""
+          />
           <p>
             Car racing simulator that allows for choosing between colors and a
             time attack mode. Developed with
