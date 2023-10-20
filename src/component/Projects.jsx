@@ -38,11 +38,7 @@ function Projects() {
       </div>
       <div className="projectsContainer">
         <div className="contentProject">
-          <h1>
-            <a href="" target="_blank">
-              TokyoThrottle
-            </a>
-          </h1>
+          <h1>TokyoThrottle</h1>
           <img
             className="contentGIF"
             loading="lazy"
@@ -60,11 +56,7 @@ function Projects() {
       </div>
       <div className="projectsContainer">
         <div className="contentProject">
-          <h1>
-            <a href="" target="_blank">
-              Scribble (WIP)
-            </a>
-          </h1>
+          <h1>Scribble (WIP)</h1>
           <img className="contentGIF" src="/scribble.png" alt="" />
           <p>
             A workspace/community web application for students catered to all
