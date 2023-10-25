@@ -18,7 +18,7 @@ function App() {
             <a href="#projectStart">Projects</a>
           </div>
           <div className="navItem">
-            <a href="mailto:moises.fuentes904@gmail.com?">Email Me</a>
+            <a href="mailto:moises.fuentes904@gmail.com">Email Me</a>
           </div>
         </div>
       </div>
